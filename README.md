@@ -59,3 +59,14 @@ SDK Dynamixel: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_
 Cours de robotique d'Alexandre Girard: https://www.alexandregirard.com/PDF/Notes_Robotique_UdeS.pdf
 
 Librairie Sympy: https://www.sympy.org/en/index.html
+
+
+
+<u>Améliorations à prévoir:</u>
+
+- Ajustement des accélération au niveau des moteurs afin d'éviter les à-coups (voir documentation Dynamixel).
+- Debug du contrôleur utilisant uniquement les trois premiers moteurs afin de pouvoir utiliser une pince sur le dernier moteur et l'orienter librement.
+- Légère modification du contrôleur permettant de passer en consigne une trajectoire et pas uniquement un point de consigne
+- Interface graphique
+- Calcul de l'espace de travail et test si un point de consigne est dedans
+- Amélioration du contrôleur afin de le rendre plus résiliant aux trajectoires singulières 
