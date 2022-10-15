@@ -46,6 +46,14 @@ Nécessite la librairie Sympy pour fonctionner.
 
 
 
+Pour tout ce qui est débuggage et récupération d'information au niveau des moteurs, il faut utiliser le logiciel **Dynamixel Wizard 2.0.**
+
+https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/
+
+
+
+
+
 SDK Dynamixel: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/
 
 Cours de robotique d'Alexandre Girard: https://www.alexandregirard.com/PDF/Notes_Robotique_UdeS.pdf
