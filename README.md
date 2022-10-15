@@ -30,7 +30,7 @@ Nécessite le SDK Dynamixel pour fonctionner.
 
 **Sympy1.py**
 
-Utilise la librairie de calcul symbolique Sympy ainsi que les paramètres de Denavit-Hartenberg visible sur l'image **DHFINAL.png** afin de calculer les expressions des différentes expressions des matrices de transformations ainsi que de la matrice Jacobienne (pour le contrôle du fichier **controle_bras.py** avec redondance). Une fois le script lancé, les matrices peuvent être récupérées dans le terminal ainsi que dans le fichier j.txt, puis être incluses dans le fichier **controle_bras.py** implémentant le contrôleur.
+Utilise la librairie de calcul symbolique Sympy ainsi que les paramètres de Denavit-Hartenberg visibles sur l'image **DHFINAL.png** afin de calculer les expressions des différentes matrices de transformations ainsi que de la matrice Jacobienne (pour le fichier **controle_bras.py** avec redondance). Une fois le script lancé, les matrices peuvent être récupérées dans le terminal ainsi que dans le fichier j.txt, puis être incluses dans le fichier **controle_bras.py** implémentant le contrôleur.
 
 Nécessite la librairie Sympy pour fonctionner.
 
@@ -38,7 +38,9 @@ Nécessite la librairie Sympy pour fonctionner.
 
 **Sympy2.py** 
 
-Utilise la librairie de calcul symbolique Sympy ainsi que les paramètres de Denavit-Hartenberg visible sur l'image **DHFINAL.png** afin de calculer les expressions des différentes expressions des matrices de transformations ainsi que de la matrice Jacobienne (pour le contrôle du fichier **controle_bras2.py** sans redondance, sans tenir compte du dernier moteur). Une fois le script lancé, les matrices peuvent être récupérées dans le terminal ainsi que dans le fichier j.txt, puis être incluses dans le fichier **controle_bras2.py** implémentant le contrôleur.
+Utilise la librairie de calcul symbolique Sympy ainsi que les paramètres de Denavit-Hartenberg visibles sur l'image **DHFINAL.png** afin de calculer les expressions des différentes matrices de transformations ainsi que de la matrice Jacobienne (pour le fichier **controle_bras2.py** sans redondance, sans tenir compte du dernier moteur). Une fois le script lancé, les matrices peuvent être récupérées dans le terminal ainsi que dans le fichier j.txt, puis être incluses dans le fichier **controle_bras2.py** implémentant le contrôleur.
+
+**<u>Attention: Ce code est pour l'instant très certainement incorrect.</u>**
 
 Nécessite la librairie Sympy pour fonctionner.
 
